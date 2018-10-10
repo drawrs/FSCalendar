@@ -98,7 +98,7 @@ github "WenchaoD/FSCalendar"
 
 ## Use Interface Builder
 
-1、 Drag an UIView object to ViewController Scene
+1、 Drag an UIView object to ViewController Scene <br/>
 2、 Change the `Custom Class` to `FSCalendar`<br/>
 3、 Link `dataSource` and `delegate` to the ViewController <br/>
 
